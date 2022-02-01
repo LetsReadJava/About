@@ -3,7 +3,7 @@
 A group of people who love to read code, inspired by the talk [Lets review code together](https://media.ccc.de/v/rc3-2021-cwtv-228-lets-review-code-toget) by [khaleesicodes](https://github.com/khaleesicodes) and [stoeckmann](https://github.com/stoeckmann).
 
 
-We are still in an early phase, but we already had our first meetings and are planning to continue on a regular basis. Our focus is on the [Java programming language](https://www.rust-lang.org/).
+We are still in an early phase, but we already had our first meetings and are planning to continue on a regular basis. Our focus is on the [Java programming language](https://www.java.com/en/).
 
 
 
