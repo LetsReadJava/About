@@ -7,7 +7,7 @@ We are still in an early phase, but we already had our first meetings and are pl
 
 
 
-We usually meet on Tuesday 17:00 CE(S)T in our Jitsi room and are currently reviewing the [Spring (Core) Framework](https://github.com/spring-projects/spring-framework) project.
+We usually meet on Tuesday 17:00 CE(S)T in our [Jitsi room](https://jitsi.hamburg.ccc.de/JavaCodeReadingGroup) and are currently reviewing the [Spring (Core) Framework](https://github.com/spring-projects/spring-framework) project.
 
 
 If you would like to join, don't hesitate to reach out in the [discussions](https://github.com/LetsReadJava/About/discussions).
